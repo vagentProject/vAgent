@@ -31,6 +31,10 @@
 习惯看youtube 4k以上视频的学习达人<br/>
 手机党等都能同时获得我们的额外的技术支持<br/>
 
+## 联系我们
+**社群 [TechSupport](https://t.me/crossgreatfirewall) for more tutorials**
+**频道 [TechSupport](hhttps://t.me/everythingjustbegin) for more tutorials**
+
 ## 下载
 
 | Download | Server/Client | OS | Arch | Remark |
