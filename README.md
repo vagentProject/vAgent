@@ -41,10 +41,14 @@
 
 手机党等都能同时获得我们的额外的技术支持<br/>
 
+## 有没有跨平台移动端?
+
+我们已经提供了移动设备的解决方案,请到电报技术群获得支持!
+
 ## 联系我们
 **电报社群 [TechSupport](https://t.me/crossgreatfirewall) **<br/>
 
-**电报频道 [TechSupport](https://t.me/everythingjustbegin) for more tutorials**<br/>
+**电报频道 [TechSupport](https://t.me/everythingjustbegin) **<br/>
 
 ## 下载
 
@@ -52,6 +56,8 @@
 | --- | --- | --- | --- | --- |
 
 | [vAgent.exe](https://github.com/vagentProject/vAgent/releases/download/v3.0/vagent3.1.2.zip) | Client | Windows | amd32 | GUI |
+| [vAgent]() | Client | iOS | amd32 | GUI |
+| [vAgent.apk]() | Client | Android | amd32 | GUI |
 
 
 
@@ -64,10 +70,10 @@ wget  https://raw.githubusercontent.com/vagentProject/vAgent/master/Server_insta
 bash Server_install.sh
 ```
 
-### Ubuntu and Debian 8 +
+### Centos
 
 ```
-静候佳音
+请静候佳音
 ```
 
 
