@@ -3,7 +3,7 @@
 
 * 厌倦了雷同的代理软件,来看看vAgent吧!
 * 基于ECC非对称公钥技术的新一代隧道技术
-* 版本V3.0
+* 版本V3.1
 
 ---
 
@@ -43,14 +43,14 @@
 
 ## 联系我们
 **社群 [TechSupport](https://t.me/crossgreatfirewall) for more tutorials**<br/>
-**频道 [TechSupport](hhttps://t.me/everythingjustbegin) for more tutorials**
+**频道 [TechSupport](hhttps://t.me/everythingjustbegin) for more tutorials**<br/>
 
 ## 下载
 
 | Download | Server/Client | OS | Arch | Remark |
 | --- | --- | --- | --- | --- |
 
-| [vAgent.exe](https://t.me/everythingjustbegin/225) | Client | Windows | amd64 | GUI |
+| [vAgent.exe](https://github.com/vagentProject/vAgent/releases/download/v3.0/vagent3.1.2.zip) | Client | Windows | amd64 | GUI |
 
 
 
