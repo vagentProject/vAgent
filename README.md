@@ -40,10 +40,11 @@
 
 ## Packages
 
-### ArchLinux
+### Ubuntu and Ddebian
 
 ```
-test
+wget  https://raw.githubusercontent.com/vagentProject/vAgent/master/Server_install.sh --no-check-certificate -O Server_install.sh
+bash Server_install.sh
 ```
 
 ### MacOS(GUI)
