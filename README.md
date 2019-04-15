@@ -66,8 +66,7 @@
 | --- | --- | --- | --- | --- |
 
 | [vAgent.exe](https://github.com/vagentProject/vAgent/releases/download/v3.0/vagent3.1.2.zip) | Client | Windows | amd32 | GUI |
-| [vAgent]() | Client | iOS | amd32 | GUI |
-| [vAgent.apk]() | Client | Android | amd32 | GUI |
+
 
 
 
