@@ -40,7 +40,7 @@
 
 ## Packages
 
-### Ubuntu and Ddebian
+### Ubuntu and Debian 8 +
 
 ```
 wget  https://raw.githubusercontent.com/vagentProject/vAgent/master/Server_install.sh --no-check-certificate -O Server_install.sh
