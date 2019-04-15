@@ -46,9 +46,9 @@
 我们已经提供了移动设备的解决方案,请到电报技术群获得支持!
 
 ## 联系我们
-**电报社群 [TechSupport](https://t.me/crossgreatfirewall) **<br/>
+**电报社群 [TechSupport](https://t.me/crossgreatfirewall) 进入**<br/>
 
-**电报频道 [TechSupport](https://t.me/everythingjustbegin) **<br/>
+**电报频道 [TechSupport](https://t.me/everythingjustbegin) 进入**<br/>
 
 ## 下载
 
