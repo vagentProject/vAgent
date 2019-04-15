@@ -42,15 +42,16 @@
 手机党等都能同时获得我们的额外的技术支持<br/>
 
 ## 联系我们
-**社群 [TechSupport](https://t.me/crossgreatfirewall) for more tutorials**<br/>
-**频道 [TechSupport](hhttps://t.me/everythingjustbegin) for more tutorials**<br/>
+**电报社群 [TechSupport](https://t.me/crossgreatfirewall) **<br/>
+
+**电报频道 [TechSupport](https://t.me/everythingjustbegin) for more tutorials**<br/>
 
 ## 下载
 
 | Download | Server/Client | OS | Arch | Remark |
 | --- | --- | --- | --- | --- |
 
-| [vAgent.exe](https://github.com/vagentProject/vAgent/releases/download/v3.0/vagent3.1.2.zip) | Client | Windows | amd64 | GUI |
+| [vAgent.exe](https://github.com/vagentProject/vAgent/releases/download/v3.0/vagent3.1.2.zip) | Client | Windows | amd32 | GUI |
 
 
 
@@ -63,10 +64,10 @@ wget  https://raw.githubusercontent.com/vagentProject/vAgent/master/Server_insta
 bash Server_install.sh
 ```
 
-### MacOS(GUI)
+### Ubuntu and Debian 8 +
 
 ```
-test
+静候佳音
 ```
 
 
