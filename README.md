@@ -45,6 +45,16 @@
 
 我们已经提供了移动设备的解决方案,请到电报技术群获得支持!
 
+
+## 部署了vAgent,我能获得什么?
+### Youtube高清视频,自己的服务器自己做主
+### 通过vAgent一键启动tor,不一样的安全环境为你定制
+### 支持vAgent://等一键导入功能,方便分享给你想分享的人
+
+## 客户端是否开源,服务端呢?
+### 很快我们会推送客户端源码,vAgent技术全部开源免费使用
+### 你可以很轻松的部署vAgent.
+
 ## 联系我们
 **电报社群 [TechSupport](https://t.me/crossgreatfirewall) 进入**<br/>
 
@@ -61,7 +71,7 @@
 
 
 
-## Packages
+## 部署vAgent
 
 ### Ubuntu and Debian 8 +
 
